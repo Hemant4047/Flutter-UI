@@ -15,5 +15,6 @@
 - Using Clipping widgets, like ClipPath, ClipRRect, ClipRect.
 - Using cutom clippers to create custom clipping patterns.
 - Learned more about Stacks, how they size themselves.
+- Using Chip(), ChoiceChip() widgets to create Chips faster with or without using them as a button.
 - Used some builder methods.
 - Creating a BottomNavigationBar(), passing callbacks through constructors and navigation between different screens.
