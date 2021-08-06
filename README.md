@@ -4,7 +4,7 @@
 ## ScreenShots
 - Login/Signup screens
 
-![Login Screen](https://user-images.githubusercontent.com/62866353/128501144-e1d8b930-1c8d-4f82-bd6f-42e705344b5d.jpeg) &nbsp; ![Signup Screen](https://user-images.githubusercontent.com/62866353/128501151-f3133394-8677-4ca6-85ab-48b5b40aafbd.jpeg)
+![LoginScreen](https://user-images.githubusercontent.com/62866353/128502102-11418a04-8fe5-465c-a513-a5417c320b76.jpeg) &nbsp; ![SignupScreen](https://user-images.githubusercontent.com/62866353/128502111-237e6fe3-2944-4746-9fc0-5761e0f26cad.jpeg)
 
 ---
 - Flight Booking App UI
